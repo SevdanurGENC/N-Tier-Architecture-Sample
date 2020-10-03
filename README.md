@@ -1,13 +1,15 @@
 # N-Tier-Architecture-Sample
 This repo is developed in C# and MsSQL environment using N Tier Architecture.
 
-## N-TIER ARCHITECTURE OF Project
+## Projenin N Katmanli Mimari Yapisi
 
 ![image](https://user-images.githubusercontent.com/5441882/94993721-a4ed0a80-059b-11eb-91b7-537f3f559a23.png)
 
-## 
+## Kullanici Giris Ekrani
 
 ![image](https://user-images.githubusercontent.com/5441882/94993729-b33b2680-059b-11eb-9dd9-21d962d68e85.png)
+
+## Ana Sayfa Ekrani
 
 ![image](https://user-images.githubusercontent.com/5441882/94993734-c3eb9c80-059b-11eb-904c-e8c74573d783.png)
 
