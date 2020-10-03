@@ -1,5 +1,8 @@
 # N-Tier-Architecture-Sample
-This repo is developed in C# and MsSQL environment using N Tier Architecture.
+
+ENG : This repo is developed in C# and MsSQL environment using N Tier Architecture.
+
+TR : Bu proje Gorsel Programlama ve Veri Tabani derslerinde kullanilabilmesi icin N Katmanli Mimari yapilarindan 3 katmanli mimari yapisi secilerek hazirlanilmistir. Projenin ilgili kodlari, veri tabani dosyasi ve sunum dosyalari repo icerisinde bulunmaktadir. 
 
 ## Projenin N Katmanli Mimari Yapisi
 
@@ -9,7 +12,7 @@ This repo is developed in C# and MsSQL environment using N Tier Architecture.
 
 ![image](https://user-images.githubusercontent.com/5441882/94993729-b33b2680-059b-11eb-9dd9-21d962d68e85.png)
 
-## Ana Sayfa Ekrani
+## Ana Menu Ekrani
 
 ![image](https://user-images.githubusercontent.com/5441882/94993734-c3eb9c80-059b-11eb-904c-e8c74573d783.png)
 
