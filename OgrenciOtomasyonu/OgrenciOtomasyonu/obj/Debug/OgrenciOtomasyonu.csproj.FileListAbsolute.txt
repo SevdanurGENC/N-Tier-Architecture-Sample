@@ -1,0 +1,14 @@
+C:\Users\Nano\Documents\Visual Studio 2015\Projects\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Nano\Documents\Visual Studio 2015\Projects\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.AnaMenu.resources
+C:\Users\Nano\Documents\Visual Studio 2015\Projects\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.PresantationLayer.Kullanici.KullaniciGuncelleme.resources
+C:\Users\Nano\Documents\Visual Studio 2015\Projects\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.Kullanici.KullaniciKayitSilme.resources
+C:\Users\Nano\Documents\Visual Studio 2015\Projects\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.Kullanici.KullaniciListeleme.resources
+C:\Users\Nano\Documents\Visual Studio 2015\Projects\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.KullaniciYeniKayit.resources
+C:\Users\Nano\Documents\Visual Studio 2015\Projects\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.Properties.Resources.resources
+C:\Users\Nano\Documents\Visual Studio 2015\Projects\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\Nano\Documents\Visual Studio 2015\Projects\OgrenciOtomasyonu\OgrenciOtomasyonu\bin\Debug\OgrenciOtomasyonu.exe.config
+C:\Users\Nano\Documents\Visual Studio 2015\Projects\OgrenciOtomasyonu\OgrenciOtomasyonu\bin\Debug\OgrenciOtomasyonu.exe
+C:\Users\Nano\Documents\Visual Studio 2015\Projects\OgrenciOtomasyonu\OgrenciOtomasyonu\bin\Debug\OgrenciOtomasyonu.pdb
+C:\Users\Nano\Documents\Visual Studio 2015\Projects\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.exe
+C:\Users\Nano\Documents\Visual Studio 2015\Projects\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.pdb
+C:\Users\Nano\Documents\Visual Studio 2015\Projects\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.OturumAcilisi.resources
