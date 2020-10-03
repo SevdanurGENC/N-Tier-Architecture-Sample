@@ -10,7 +10,7 @@ TR : Bu proje Gorsel Programlama ve Veri Tabani derslerinde kullanilabilmesi ici
 
 ## MDF Dosya Icerigi
 
-![image](https://user-images.githubusercontent.com/5441882/94994295-60fc0480-059f-11eb-9e36-51120daeccad.png)
+![image](https://user-images.githubusercontent.com/5441882/94994321-8d178580-059f-11eb-8bed-3e32e70893c5.png)
 
 ![image](https://user-images.githubusercontent.com/5441882/94994299-6a856c80-059f-11eb-9efa-bd23db16b973.png)
 
